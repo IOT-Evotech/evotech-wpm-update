@@ -1,0 +1,8 @@
+{
+  "product": "WPM",
+  "latest_version": "4.2.0",
+  "release_date": "2026-08-12",
+  "release_notes": "Initial online update manifest for Evotech WPM.",
+  "package_url": "https://github.com/IOT-Evotech/evotech-wpm-update/releases/download/v4.2.0/main.dist.zip",
+  "sha256": ""
+}
