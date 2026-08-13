@@ -1,8 +1,8 @@
 {
   "product": "WPM",
-  "latest_version": "4.2.2",
+  "latest_version": "4.2.3",
   "release_date": "2026-08-13",
-  "release_notes": "Update index.",
-  "package_url": "https://github.com/IOT-Evotech/evotech-wpm-update/releases/download/v4.2.2/main.dist.zip",
-  "sha256": "3eb87e7e21940d0d963ff21096b42e04d99742b42cf5264f0cdd4fc1e7592e4c"
+  "release_notes": "Update index again.",
+  "package_url": "https://github.com/IOT-Evotech/evotech-wpm-update/releases/download/v4.2.3/main.dist.zip",
+  "sha256": "fb41242cd18438008b78cd377fa73f6e2de4cce39c3fa33c9aef019af2dacac4"
 }
