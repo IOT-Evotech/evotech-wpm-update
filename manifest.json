@@ -4,5 +4,5 @@
   "release_date": "2026-08-12",
   "release_notes": "Maintenance release with antivirus-safe incremental update package.",
   "package_url": "https://github.com/IOT-Evotech/evotech-wpm-update/releases/download/v4.2.1/main.dist.zip",
-  "sha256": "94da960325eefe27fa1a073c94285ffbf585417b47f266c47c7babd59d8a2489"
+  "sha256": "sha256:9d0b94482441bce2348eab86fd436a2ae0e97bdef726b9b0f22af816354a6a29"
 }
